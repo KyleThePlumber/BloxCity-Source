@@ -9,11 +9,11 @@
 
 - [Backstory](#backstory)
 - [Bad Code](#bad-code)
-- [AI Code](#ai-code)
-- [Stolen Code](#stolen-code)
-    - [BLDN (FoxxoSnoot)](#bldn-foxxosnoot)
-    - [BloxCity Clone](#bloxcity-clone)
-    - [Brick Hill](#brick-hill)
+    - [AI Code](#ai-code)
+    - [Stolen Code](#stolen-code)
+        - [BLDN (FoxxoSnoot)](#bldn-foxxosnoot)
+        - [BloxCity Clone](#bloxcity-clone)
+        - [Brick Hill](#brick-hill)
 - [Stripe](#stripe)
 
 # Backstory
